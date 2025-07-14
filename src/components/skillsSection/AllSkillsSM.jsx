@@ -23,10 +23,6 @@ const skills = [
     icon: IoLogoJavascript,
   },
   {
-    skill: "TypeScript",
-    icon: SiTypescript,
-  },
-  {
     skill: "ReactJS",
     icon: FaReact,
   },
@@ -35,7 +31,7 @@ const skills = [
     icon: SiRedux,
   },
   {
-    skill: "NextJS",
+    skill: "ExpressJS",
     icon: SiNextdotjs,
   },
   {
